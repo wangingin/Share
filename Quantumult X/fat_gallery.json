@@ -1,0 +1,8 @@
+{
+    "name":"A fat doge!",
+    "description":"https://github.com/wangingin/share",
+    "task":[
+        "0 3,9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_baiTiao.js , tag=京东白条 , img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
+        "0 5 1,10,20 * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/shareCode-auto.js , tag=提交助力码 , img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png"
+        ]
+}
