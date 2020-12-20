@@ -4,6 +4,7 @@
     "task":[
         "0 3,9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_baiTiao.js , tag=京东白条 , img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         "0 5 1,10,20 * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/shareCode-auto.js , tag=提交助力码 , img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png",
-        "*/11 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/qqread.js , tag=企鹅阅读 , img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png"    
+        "*/11 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/qqread.js , tag=企鹅阅读 , img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png",
+        "10-20/10 9 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_watch.js, tag=京东看一看 img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd.png," 
     ]
 }
